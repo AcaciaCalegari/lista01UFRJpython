@@ -1,6 +1,5 @@
 #Lista01
-#Nome:Acacia Castro Calegari
-#DRE:114153997
+#Nome:AcaciaCalegari
 
 
 #1- Funcao q calcula a area de um retangulo
